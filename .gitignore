@@ -1,1 +1,8 @@
-config.txt
+# example dont push one file
+config.txt 
+
+# example dont push folder
+data/
+
+# example dont push extention
+*.exe
